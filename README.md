@@ -27,11 +27,11 @@
 
 **Шаг 4**. Убедитесь, что работает подсветка синтаксиса. Файлы должны выглядеть так:
 
-* Terraform: ![Terraform](img/terraform.png)
-* Bash: ![bahs](img/bash.png)
-* Markdown: ![markdown](img/markdown.png)
-* Yaml: ![Yaml](img/yaml.png)
-* Jsonnet: ![Jsonnet](img/jsonnet.png)
+* Terraform: ![Terraform](img1/terraform.png)
+* Bash: ![bahs](img1/bash.png)
+* Markdown: ![markdown](img1/markdown.png)
+* Yaml: ![Yaml](img1/yaml.png)
+* Jsonnet: ![Jsonnet](img1/jsonnet.png)
 
 *В качестве выполненного задания загрузите скриншоты установленной IDE с плагинами в файле README.md собственного репозитория в GitHub или в Google Doc.*
 
